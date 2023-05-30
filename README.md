@@ -1,4 +1,4 @@
-# Augmented-Reality- 
+# Informatics Capstone Project: "Design and Development of Rattan Furniture Augmented Reality Application: A Case Study of Karvala Rattan"
 #This repository contains augmented reality application projects assigned at the university. 
 #The apps were created using UnityHub, Vuforia SDK. 
 #Created in late 2021 to mid 2022
